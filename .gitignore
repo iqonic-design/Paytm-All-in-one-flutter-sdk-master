@@ -1,0 +1,8 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+Paytm_Plugin_Server/
